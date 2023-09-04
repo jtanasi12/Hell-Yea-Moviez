@@ -145,7 +145,7 @@ img{
 
     .cardReview{
         min-width: 400px;
-        min-height: 300px;
+        min-height: 400px;
 
     }
 
@@ -172,6 +172,12 @@ img{
    
       
      }
+
+     .cardReview{
+        min-width: 400px;
+        min-height: 400px;
+
+    }
 
 
 }
@@ -209,6 +215,12 @@ img{
          border-radius: 25px;
        
       }
+
+      .cardReview{
+        min-width: 350px;
+        min-height: 400px;
+
+    }
       
 }
 
@@ -221,8 +233,8 @@ img{
    
 
     .cardReview{
-        min-width: 300px;
-        min-height: 300px;
+        min-width: 330px;
+        min-height: 450px;
     }
 
 
@@ -258,7 +270,7 @@ img{
 @media(min-width: 1500px){
     .cardReview{
         min-width: 325px;
-        min-height: 325px;
+        min-height: 450px;
     }
 
     .bucket-2{

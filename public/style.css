@@ -10,9 +10,11 @@ body{
     font-family: sans-serif;
     color: white;
 
+    margin: 0;
+    padding: 0;
     height: 100vh;
     width: 100%;
-   overflow-x: hidden;
+    overflow-x: hidden;
 }
 #saveEmoji{
     font-size: 3.5em;

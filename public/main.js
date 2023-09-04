@@ -68,7 +68,7 @@ function fetchMovies(url){
 
            // Link this to the new page
            title.innerHTML += `<br></br> `;
-           title.innerHTML += `<a href=movie.html?id=${resultArray.results[index].id}&title=${encodeURI(resultArray.results[index].title)}&img=${image_base_url}${resultArray.results[index].poster_path}>Reviews</a>`
+           title.innerHTML += `<a style="text-decoration: none; color: white; font-weight:bold"  href=movie.html?id=${resultArray.results[index].id}&title=${encodeURI(resultArray.results[index].title)}&img=${image_base_url}${resultArray.results[index].poster_path}>Reviews</a>`
     
            console.log(resultArray.results[index].poster_path); 
 

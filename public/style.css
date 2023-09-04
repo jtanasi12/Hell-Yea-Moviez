@@ -7,7 +7,9 @@ body{
     font-family: sans-serif;
     color: white;
 }
-
+#saveEmoji{
+    font-size: 3.5em;
+}
 form{
     background-color: black;
     display: flex;
@@ -75,7 +77,7 @@ h4.movie-reviews{
      color: white;
      max-width: 400px;
 
-     border-radius: 25px;
+     border-radius:  25px;
    
   }
 
@@ -177,7 +179,7 @@ img{
         margin-top: 25px;
       }
 
-      #pencilEmoji, #trashEmoji{
+      #pencilEmoji, #trashEmoji, #saveEmoji{
          font-size: 3.5em;
       }
 
@@ -241,7 +243,7 @@ img{
        
       }
       
-      #pencilEmoji, #trashEmoji, #saveEmo{
+      #pencilEmoji, #trashEmoji, #saveEmoji{
         font-size: 3.5em;
      }
     
@@ -258,7 +260,7 @@ img{
     .bucket-2{
         margin-top: 60px;
       }
-      #pencilEmoji, #trashEmoji{
+      #pencilEmoji, #trashEmoji, #saveEmoji{
         font-size: 2.5em;
       }
 
@@ -285,7 +287,7 @@ img{
        
       }
 
-      #pencilEmoji, #trashEmoji{
+      #pencilEmoji, #trashEmoji, #saveEmoji{
         font-size: 3.5em;
      }
     

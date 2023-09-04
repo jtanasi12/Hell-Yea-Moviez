@@ -12,8 +12,8 @@ const movieTitle = url.searchParams.get("title");
 
 // Pulls out the title that we apphended on 
 
-//const hell_yea_moviez_api = 'http://localhost:5500/api/v1/reviews/';
-const hell_yea_moviez_api = 'https://hell-yea-moviez.onrender.com/api/v1/reviews/';
+const hell_yea_moviez_api = 'http://localhost:5500/api/v1/reviews/';
+//const hell_yea_moviez_api = 'https://hell-yea-moviez.onrender.com/api/v1/reviews/';
 
 const movieImg = url.searchParams.get("img");
 

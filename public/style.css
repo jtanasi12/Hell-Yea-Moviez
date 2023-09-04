@@ -6,6 +6,8 @@ body{
     background-color: #131720;
     font-family: sans-serif;
     color: white;
+
+   overflow-x: hidden;
 }
 #saveEmoji{
     font-size: 3.5em;

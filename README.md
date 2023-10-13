@@ -4,4 +4,4 @@ Hell Yea MovieZ stands as an online platform hosted on Render, meticulously desi
 
 
 The website can be found here: https://hell-yea-moviez.onrender.com/ 
-Note: The website is hosted using a 'free' instance type so loading from a state of inactivity may take a while. 
+Note: The website is hosted using a 'free' instance type so loading from a state of inactivity may take a while. Thank you, enjoy!
